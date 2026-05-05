@@ -91,18 +91,17 @@ Interactive architectural walkthrough showcasing photorealistic real-time render
 <br>
 
 ## GitHub Statistics
-
 <div align="center">
 
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=karthikumarchyouth-dev&show_icons=true&hide_border=true&bg_color=0a0e1a&title_color=00d9ff&icon_color=a855f7&text_color=e8edf4&border_radius=8&include_all_commits=true&count_private=true" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=karthikumarchyouth-art&hide_border=true&background=0a0e1a&stroke=00d9ff&ring=00d9ff&fire=a855f7&currStreakLabel=00d9ff&sideLabels=e8edf4&currStreakNum=e8edf4&dates=8a95a8&sideNums=e8edf4&border_radius=8" />
+<img width="48%" src="https://streak-stats.demolab.com?user=karthikumarchyouth-dev&hide_border=true&background=0a0e1a&stroke=00d9ff&ring=00d9ff&fire=a855f7&currStreakLabel=00d9ff&sideLabels=e8edf4&currStreakNum=e8edf4&dates=8a95a8&sideNums=e8edf4&border_radius=8" />
 
 </div>
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikumarchyouth-art&layout=compact&hide_border=true&bg_color=0a0e1a&title_color=00d9ff&text_color=e8edf4&border_radius=8&langs_count=6" />
-<img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=karthikumarchyouth-art&hide_border=true&bg_color=0a0e1a&color=00d9ff&line=a855f7&point=60a5fa&area=true&area_color=00d9ff&title_color=00d9ff&border_radius=8&custom_title=Contribution%20Activity" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikumarchyouth-dev&layout=compact&hide_border=true&bg_color=0a0e1a&title_color=00d9ff&text_color=e8edf4&border_radius=8&langs_count=6" />
+<img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=karthikumarchyouth-dev&hide_border=true&bg_color=0a0e1a&color=00d9ff&line=a855f7&point=60a5fa&area=true&area_color=00d9ff&title_color=00d9ff&border_radius=8&custom_title=Contribution%20Activity" />
 
 </div>
 
